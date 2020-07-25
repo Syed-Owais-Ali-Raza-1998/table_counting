@@ -4,9 +4,9 @@ version = "0.1.0"
 authors = ["Syed-Owais-Ali-Raza-1998 <syedowaisaliraza@gmail.com>"]
 edition = "2018"
 
-description = "In the libray you can easily to get any table counting which you want. /nGoto your main.rs /n'use table_counting::table;'\nFor calling in main function 'table(your_table_no,your_table_range)'"
+description = "In the libray you can easily to get any table counting which you want. Goto your main.rs'use table_counting::table;'. For calling in main function 'table(your_table_no,your_table_range)'"
 license = "MIT"
-respository = 'https://github.com/Syed-Owais-Ali-Raza-1998/table_counting.git'
+respository = "https://github.com/Syed-Owais-Ali-Raza-1998/table_counting"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
